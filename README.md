@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **adi.ag321@gmail.com**
 
-
 <h3><b>Connect With Me:</b></h3>
 
 <a href="https://github.com/adiag321?tab=repositories" target="blank">![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)</a>
@@ -31,8 +30,8 @@
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adiag321&show_icons=true&locale=en&layout=compact" alt="adiag321" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=adiag321&show_icons=true&locale=en" alt="adiag321" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adiag321&show_icons=true&locale=en" alt="adiag321" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adiag321&show_icons=true&locale=en&layout=compact" alt="adiag321" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adiag321&" alt="adiag321" /></p>
