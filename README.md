@@ -33,6 +33,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adiag321&show_icons=true&locale=en&layout=compact" alt="adiag321" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=adiag321&" alt="adiag321" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=adiag321&" alt="adiag321" />
+</p>
 
 
