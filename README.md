@@ -18,7 +18,7 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@adi-ag321)
 
-- 📫 How to reach me **adi.ag321@gmail.com**
+- 📫 You can reach me on **adi.ag321@gmail.com**
 
 <a href="https://github.com/adiag321?tab=repositories" target="blank">![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)</a>
 <a href="https://linkedin.com/in/adityaagarwal68" target="blank">![linkedin](https://img.shields.io/badge/Linkedin-0077b5?style=for-the-badge&logo=Linkedin&logoColor=white)</a>
