@@ -10,7 +10,7 @@
 
 ----
 
-<h3><b>About Me:</b></h3>
+<h3><b>About Me -</b></h3>
 
 - 🌱 I’m currently learning **SQL and Machine Learning.**
 
