@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Agarwal</h1>
-<h3 align="center">A passionate Data Science Learner</h3>
+<h3 align="center">A passionate Data Science Learner!</h3>
 
 <p align=center>
 <img height="25" src="https://badges.pufler.dev/visits/adiag321/adiag321?color=black&logo=github" />
