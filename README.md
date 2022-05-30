@@ -20,24 +20,29 @@
 
 - 📫 You can reach me on **adi.ag321@gmail.com**
 
-<a href="https://github.com/adiag321?tab=repositories" target="blank">![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)</a>
 <a href="https://linkedin.com/in/adityaagarwal68" target="blank">![linkedin](https://img.shields.io/badge/Linkedin-0077b5?style=for-the-badge&logo=Linkedin&logoColor=white)</a>
-<a href="https://medium.com/@adi-ag321" target="blank">![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white)</a>
+<a href="https://github.com/adiag321?tab=repositories" target="blank">![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)</a>
 <a href="https://www.kaggle.com/aditya6899" target="blank">![Kaggle](https://img.shields.io/badge/Kaggle-0077b5?style=for-the-badge&logo=Kaggle&logoColor=white)</a>
+<a href="https://medium.com/@adi-ag321" target="blank">![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white)</a>
+
 
 ----
 
-<h3 align="left">Languages and Tools:</h3><p align="left"> 
+<h3 align="left">Languages and Tools:</h3>
   
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://camo.githubusercontent.com/1a085b81c0ac63ef70d22ee1a67560c1bdd5c42038ba20d129d89e7de5603953/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6d7973716c" alt="mysql"/> </a> 
+<a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
+
+
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=adiag321&" alt="adiag321" /></p>
   
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adiag321&show_icons=true&locale=en&layout=compact" alt="adiag321" /></p>
 
+  
+  
 
 
 
