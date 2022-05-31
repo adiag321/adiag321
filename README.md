@@ -48,8 +48,6 @@
 <a href="" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" alt="R Studio" width="40" height="40"/> </a> &nbsp; 
 <a href="" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> </a> &nbsp; 
 </div>
-  
-----
 
 <div>
 <p><img align = "left" src="https://github-readme-streak-stats.herokuapp.com/?user=adiag321&" alt="adiag321" /></p>
