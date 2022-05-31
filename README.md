@@ -45,10 +45,11 @@
 <a href="" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> </a> &nbsp; 
 
 </div>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=adiag321&" alt="adiag321" /></p>
   
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adiag321&show_icons=true&locale=en&layout=compact" alt="adiag321" /></p>
+---
+  
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=adiag321&" alt="adiag321" width="400" height="400"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adiag321&show_icons=true&locale=en&layout=compact" alt="adiag321" width="400" height="400"/></p>
 
   
   
