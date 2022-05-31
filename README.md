@@ -10,7 +10,7 @@
 
 ----
 
-<h3><b>About Me -</b></h3>
+<h3><b>About Me:</b></h3>
 
 - 🌱 I’m currently learning **SQL and Machine Learning.**
 
@@ -27,15 +27,24 @@
 
 
 ----
-
+<div>
 <h3 align="left">Languages and Tools:</h3>
   
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://camo.githubusercontent.com/1a085b81c0ac63ef70d22ee1a67560c1bdd5c42038ba20d129d89e7de5603953/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6d7973716c" alt="mysql"/> </a> 
-<a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a> &nbsp;
+<a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a> &nbsp;
+<a href="https://www.mysql.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/></a>&nbsp;
+<a href="" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R" width="40" height="40"/> </a> &nbsp; 
+<a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> &nbsp;
+<a href="" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> </a> &nbsp;
+<a href="" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/> </a> &nbsp;
+<a href="" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="Jupyter" width="40" height="40"/> </a> &nbsp;
+<a href="" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" alt="Kaggle" width="40" height="40"/> </a> &nbsp;
+<a href="" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/> </a> &nbsp;
+<a href="" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="40" height="40"/> </a> &nbsp; 
+<a href="" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" alt="R Studio" width="40" height="40"/> </a> &nbsp; 
+<a href="" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> </a> &nbsp; 
 
-
+</div>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=adiag321&" alt="adiag321" /></p>
   
