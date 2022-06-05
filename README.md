@@ -14,14 +14,17 @@
 
 <div>
 <h3><b>About Me:</b></h3>
+ 
+- 🏫 Currently I am pursuing my **Masters of Science in Data Analytics Engineering** from Northeastern University, Boston.
 
-- 🌱 I’m currently learning **SQL and Machine Learning.**
+- 🌱 I’m currently learning `SQL` and `Machine Learning`.
+ 
+- 👨‍💻 I am proficient in translating large amounts of data and information into compelling visualizations to convey a "story" that is meaningful for the intended audience.
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/adiag321?tab=repositories" target="blank">[Github](https://github.com/adiag321?tab=repositories)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@adi-ag321)
 
-- 📫 You can reach me on **adi.ag321@gmail.com**
 
 <a href="https://linkedin.com/in/adityaagarwal68" target="blank">![linkedin](https://img.shields.io/badge/Linkedin-0077b5?style=for-the-badge&logo=Linkedin&logoColor=white)</a>
 <a href="https://github.com/adiag321?tab=repositories" target="blank">![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)</a>
@@ -49,7 +52,11 @@
 <a href="" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> </a> &nbsp; 
 </div>
 
-<div>
-<p><img align = "left" src="https://github-readme-streak-stats.herokuapp.com/?user=adiag321&" alt="adiag321" /></p>
-<p><img align = "left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adiag321&show_icons=true&locale=en&layout=compact" alt="adiag321"/></p>
-</div>
+
+ 
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=adiag321&" alt="adiag321" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adiag321&show_icons=true&locale=en&layout=compact" alt="adiag321" /></p>
+ 
+ 
+ 
