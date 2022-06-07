@@ -19,9 +19,9 @@
  
  - 👨‍💻 I am proficient in translating large amounts of data and information into compelling visualizations to convey a "story" that is meaningful for the intended audience.
 
-- 🌱 I’m currently learning `SQL` and `Machine Learning`.
+- 🌱 Currently, I'm learning and gaining hands on experience in `SQL` and `Machine Learning`.
  
-- 👨‍💻 All of my projects are available at <a href="https://github.com/adiag321?tab=repositories" target="blank">[Github](https://github.com/adiag321?tab=repositories).
+- 👨‍💻 All of my personal projects are available at my <a href="https://github.com/adiag321?tab=repositories" target="blank">[Github Repository](https://github.com/adiag321?tab=repositories).
  
 - 📝 I regularly write articles on [Medium](https://medium.com/@adi-ag321).
 
