@@ -21,7 +21,7 @@
  
  - 👨‍💻 I am proficient in translating large amounts of data and information into compelling visualizations to convey a "story" that is meaningful for the intended audience.
 
-- 🌱 Currently, I'm learning and gaining hands on experience in `SQL` and `Machine Learning`.
+- 🌱 Currently, I'm learning and gaining hands on experience in `Machine Learning`, `Deep Learning`, and `SQL`.
  
 - 👨‍💻 All of my personal projects are available at my <a href="https://github.com/adiag321?tab=repositories" target="blank">[Github Repository](https://github.com/adiag321?tab=repositories).
  
