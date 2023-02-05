@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aditya Agarwal</h1>
-<h3 align="center">A passionate `Data Science` Learner!</h3>
+<h3 align="center">A passionate "Data Science" Learner!!</h3>
 
 <p align=center>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img height="25" src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
+
 <img height="25" src="https://visitor-badge.glitch.me/badge?page_id=adiag321.visitor-badge&left_text=My%20Page%20Visitors"/>
 <img height="25" src="https://komarev.com/ghpvc/?username=adiag321&color=brightgreen"/>
 
-<img height="25" src="https://badges.pufler.dev/commits/monthly/adiag321"/>
+
 
 <a href="https://github.com/adiag321">
 </a>
