@@ -6,27 +6,23 @@
 <img height="25" src="https://visitor-badge.glitch.me/badge?page_id=adiag321.visitor-badge&left_text=My%20Page%20Visitors"/>
 <img height="25" src="https://komarev.com/ghpvc/?username=adiag321&color=brightgreen"/>
 
-
-
 <a href="https://github.com/adiag321">
 </a>
 </p>
 
-----
+
+## About Me
 
 <div>
-<h3><b>About Me:</b></h3>
  
-- 🏫 Currently I am pursuing my **Masters of Science in Data Analytics Engineering** from Northeastern University, Boston.
- 
- - 👨‍💻 I am proficient in translating large amounts of data and information into compelling visualizations to convey a "story" that is meaningful for the intended audience.
+* I am a Data Science professional with 2 years of experience leveraging data to drive business decisions and improve operations. I'm currently pursuing a `Masters's In Data Analytics Engineering` at Northeastern University.
 
-- 🌱 Currently, I'm learning and gaining hands on experience in `Machine Learning`, `Deep Learning`, and `SQL`.
- 
-- 👨‍💻 All of my personal projects are available at my <a href="https://github.com/adiag321?tab=repositories" target="blank">[Github Repository](https://github.com/adiag321?tab=repositories).
- 
-- 📝 I regularly write articles on [Medium](https://medium.com/@adi-ag321).
+* I am skilled in `statistics`, `machine learning`, and `programming`, with a proven track record of delivering actionable insights through data analysis. My experience in data visualization and communication allows me to effectively translate large amounts of data and information into compelling visualizations for technical and non-technical stakeholders. I've worked on a variety of projects that involve `predictive modeling`, `natural language processing`, and `data-driven decision making`.
+When I'm not working, you can find me learning about new technologies, exploring nature, and practicing yoga.
 
+* Connect with me to learn more about my experience and how I can help drive your data-driven initiatives.
+ 
+* I regularly write articles on [Medium](https://medium.com/@adi-ag321).
 
 <a href="https://linkedin.com/in/adityaagarwal68" target="blank">![linkedin](https://img.shields.io/badge/Linkedin-0077b5?style=for-the-badge&logo=Linkedin&logoColor=white)</a>
 <a href="https://github.com/adiag321?tab=repositories" target="blank">![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)</a>
@@ -35,11 +31,9 @@
  
 </div>
  
-----
-  
+## Languages and Tools
+
 <div>
-<h3 align="left">Languages and Tools:</h3>
-  
 <a href="https://www.python.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40"/> </a> &nbsp;
 <a href="https://git-scm.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Git_format.png" alt="git" width="40" height="40"/> </a> &nbsp;
 <a href="https://www.mysql.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" title="MySQL"  alt="MySQL" width="40" height="40"/></a> &nbsp;
@@ -55,10 +49,8 @@
  
 </div>
 
----
- 
+## My GitHub Summary
 <div>
-<h3 align="left">My GitHub Summary:</h3>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=adiag321&" alt="adiag321" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adiag321&show_icons=true&locale=en&layout=compact" alt="adiag321" /></p>
