@@ -6,7 +6,6 @@
 <img height="25" src="https://visitor-badge.glitch.me/badge?page_id=adiag321.visitor-badge&left_text=My%20Page%20Visitors"/>
 <img height="25" src="https://komarev.com/ghpvc/?username=adiag321&color=brightgreen"/>
 
-<a href="https://github.com/adiag321">
 </a>
 </p>
 
@@ -17,8 +16,9 @@
  
 * I am a Data Science professional with 2 years of experience leveraging data to drive business decisions and improve operations. I'm currently pursuing a `Masters's In Data Analytics Engineering` at Northeastern University.
 
-* I am skilled in `statistics`, `machine learning`, and `programming`, with a proven track record of delivering actionable insights through data analysis. My experience in data visualization and communication allows me to effectively translate large amounts of data and information into compelling visualizations for technical and non-technical stakeholders. I've worked on a variety of projects that involve `predictive modeling`, `natural language processing`, and `data-driven decision making`.
-When I'm not working, you can find me learning about new technologies, exploring nature, and practicing yoga.
+* I am skilled in `statistics`, `machine learning`, and `programming`, with a proven track record of delivering actionable insights through data analysis. My experience in data visualization and communication allows me to effectively translate large amounts of data and information into compelling visualizations for technical and non-technical stakeholders. 
+ 
+* I've worked on a variety of projects that involve `predictive modeling`, `natural language processing`, and `data-driven decision making`. When I'm not working, you can find me learning about new technologies, exploring nature, and practicing yoga.
 
 * Connect with me to learn more about my experience and how I can help drive your data-driven initiatives.
  
