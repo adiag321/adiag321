@@ -50,8 +50,9 @@
 </div>
 
 ## My GitHub Summary
-<div>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=adiag321&" alt="adiag321" /></p>
+
+<p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adiag321" alt="adiag321" /></p>
 <br>
+ 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adiag321&show_icons=true&locale=en&layout=compact" alt="adiag321" /></p>
- </div>
+
